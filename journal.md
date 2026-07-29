@@ -42,10 +42,10 @@ i also wred the stm and added usb conections for the MCUs as well then i made th
 
 <img width="929" height="587" alt="image" src="https://github.com/user-attachments/assets/7f5c22d6-d549-4d80-a74c-857b3258f494" />
 
-<a href="https://lapse.hackclub.com/timelapse/BbA9C7VE1qBu">lapse here</a>
+<a href="https://lapse.hackclub.com/timelapse/R3qTmDXOXc7E">lapse here</a>
 
 
-**Total time spent: 8.5hr**
+**Total time spent: 5.5hr**
 
 
 
